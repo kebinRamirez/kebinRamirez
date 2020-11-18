@@ -4,7 +4,7 @@
   <img src="https://github.com/kebinRamirez/kebinRamirez/blob/main/DOVISCAN.png" width="350" title="DOVI">
   <img src="https://github.com/kebinRamirez/kebinRamirez/blob/main/android.gif" width="350" title="ANDROID>
 </p>
-<p align="center">
+<p align="down">
 <a href="https://twitter.com/kebinrg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kebinrg" height="20" width="20" /></a>
 <a href="https://www.instagram.com/kebin_ramirez/?hl=es-la" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kebin_ramirez" height="20" width="20" /></a>
 </p>
