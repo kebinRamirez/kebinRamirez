@@ -13,4 +13,6 @@
 
 <h1 align="center">take a look at our final project... </h1>
 
-![image](https://github.com/kebinRamirez/kebinRamirez/blob/main/DOVISCAN.png)
+<p align="center">
+  <img src="https://github.com/kebinRamirez/kebinRamirez/blob/main/DOVISCAN.png" width="350" title="DOVI">
+</p>
