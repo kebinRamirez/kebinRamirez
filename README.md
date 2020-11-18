@@ -1,6 +1,6 @@
 @@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kebin Ramirez </h1>
-![image](https://github.com/kebinRamirez/kebinRamirez/blob/main/android.gif)
+![image](https://github.com/kebinRamirez/kebinRamirez/android.gif)
 
 <h1 align="center">Hi 👋, I'm Kebin Ramirez </h1>
 
