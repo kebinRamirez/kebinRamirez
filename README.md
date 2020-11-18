@@ -1,4 +1,4 @@
-![image](https://github.com/kebinRamirez/kebinRamirez/blob/main/dino.gif)
+![image](https://github.com/kebinRamirez/kebinRamirez/blob/main/android.gif)
 
 <h1 align="center">Hi 👋, I'm Kebin Ramirez </h1>
 
