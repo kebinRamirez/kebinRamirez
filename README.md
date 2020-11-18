@@ -1,4 +1,12 @@
-### Hi there 👋
+@@ -1,6 +1,8 @@
+<h1 align="center">Hi 👋, I'm Kebin Ramirez </h1>
+![image](https://github.com/kebinRamirez/kebinRamirez/blob/main/android.gif)
+
+<h1 align="center">Hi 👋, I'm Kebin Ramirez </h1>
+
+
+
+📫 How to get contact **kebinr@uninorte.edu.co**
 
 <!--
 **kebinRamirez/kebinRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
