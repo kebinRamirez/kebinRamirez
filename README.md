@@ -11,9 +11,6 @@
 
 
 
-![image](https://github.com/kebinRamirez/kebinRamirez/blob/main/android.gif)
-
-
 
 
 <p align="center">
