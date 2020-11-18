@@ -1,5 +1,3 @@
-![image](https://github.com/kebinRamirez/kebinRamirez/blob/main/android.gif)
-
 <h1 align="center">Hi 👋, I'm Kebin Ramirez </h1>
 <h1 align="center">take a look at our final project... </h1>
 <p align="center">
