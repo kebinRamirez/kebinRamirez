@@ -1,6 +1,4 @@
-@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kebin Ramirez </h1>
-![image](https://github.com/kebinRamirez/kebinRamirez/android.gif)
+![image](https://github.com/kebinRamirez/kebinRamirez/blob/main/dino.gif)
 
 <h1 align="center">Hi 👋, I'm Kebin Ramirez </h1>
 
@@ -8,17 +6,7 @@
 
 📫 How to get contact **kebinr@uninorte.edu.co**
 
-<!--
-**kebinRamirez/kebinRamirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://twitter.com/kebinrg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kebinrg" height="20" width="20" /></a>
+<a href="https://www.instagram.com/kebin_ramirez/?hl=es-la" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kebin_ramirez" height="20" width="20" /></a>
+</p>
